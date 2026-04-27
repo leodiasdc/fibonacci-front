@@ -4,7 +4,8 @@ const API_URL = import.meta.env.VITE_API_URL || "https://fibonacci-api-dht3.onre
 
 const ACOES_POPULARES = [
   "PETR4","VALE3","ITUB4","BBDC4","ABEV3","WEGE3","RENT3","MGLU3",
-  "BBAS3","SUZB3","RDOR3","HAPV3","PRIO3","GGBR4","BPAC11"
+  "BBAS3","SUZB3","RDOR3","HAPV3","PRIO3","GGBR4","BPAC11", 'ETHE11', 'VBBR3', 'TSMC34', 'GOGL34', 'QETH11', 'GOGL34', 'AAPL34', 'BABA34', 'BSLV39', 'QBTC11', 'CHCM34', 'COCA34', 'AURA33', 'C2OI34', 'U1BE34',
+           'HASH11', 'GOLD11', 'QCOM34', 'NVDC34','T2TD34', 'M2ST34', 'CPFE3', 'TSLA34', 'CPLE3', 'MELI34'
 ];
 
 function labelDestaque(label) {
